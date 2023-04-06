@@ -1,15 +1,16 @@
-# CSS, advenced
+# CSS, advanced
+![image](https://user-images.githubusercontent.com/105843973/229482878-a07d7871-ee98-4e91-bb0c-9e1e3c9e77fa.png)
 
 ## Resources
 
 ### Read or watch:
 
--    Learn to Code HTML & CSS (until “Creating Lists” included)
--    Inline Styles in HTML
--    Specifics on CSS Specificity
--    CSS SpeciFishity
--    CSS
--    MDN
+-    [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/) (until “Creating Lists” included)
+-    [Inline Styles in HTML](https://www.codecademy.com/article/html-inline-styles)
+-    [Specifics on CSS Specificity](https://css-tricks.com/specifics-on-css-specificity/)
+-    [CSS SpeciFishity]()
+-    [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
+-    [MDN](https://developer.mozilla.org/en-US/)
 
 ### Learning Objectives
 
