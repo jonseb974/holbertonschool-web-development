@@ -1,129 +1,32 @@
-/* header */
-
-header {
-    position: absolute;
-    width: 1103px;
-    height: 29px;
-    left: 171px;
-    top: 35px;
+* {
+    font-family: "Source Sans Pro", sans-serif;
 }
 
-/* menu */
-nav {
-    position: absolute;
-    width: 234px;
-    height: 15px;
-    left: 1041px;
-    top: 37px;
-}
 
-/* logo */
-logo {
-    position: absolute;
-    width: 167px;
-    height: 29px;
-    left: 171px;
-    top: 35px;
-}
-
-/* smile */
-smile {
-    position: absolute;
-    width: 167px;
-    height: 29px;
-    left: 171px;
-    top: 35px;
-
-    background-color: #FFFFFF;
-    transform: rotate(-7deg);
-}
-
-/* left eye */
-left_eye {
-    position: absolute;
-    width: 7.87px;
-    height: 11.85px;
-    left: 175px;
-    top: 35px;
-
-    background-color: #FFFFFF;
-}
-
-/* right eye */
-right_hight {
-    position: absolute;
-    width: 7.87px;
-    height: 11.85px;
-    left: 195px;
-    top: 35px;
-
-    background-color: #FFFFFF;
-}
-
-/* SmileSchool */
-smileSchool {
-    position: absolute;
-    width: 112px;
-    height: 13px;
-    left: 227px;
-    top: 42px;
-
-    background-color: #FFFFFF;
-}
-
-/* part_5_footer */
-footer {
+main {
     position: absolute;
     width: 1440px;
-    height: 249px;
-    left: 0px;
-    top: 3469px;
-}
-/* background */
-background {
-    position: absolute;
-    left: 0%;
-    right: 0%;
-    top: 0%;
-    bottom: 0%;
+    height: 1093px;
+} 
 
-    background: #071629;
-}
-
-logo {
-    position: absolute;
-    left: 11%;
-    right: 77%;
-    top: 38%;
-    bottom: 50%;
-}
-/* ©smileschool 2020 */
-©smileschool {
-    position: absolute;
-    height: 15px;
-    left: 46px;
-    right: 47px;
-    top: calc(50% - 15px/2 + 78px);
-
-    font-family: 'Source Sans Pro';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 12px;
-    line-height: 15px;
-
-    /* identical to box height */
-color: #FFFFFF;
-
-mix-blend-mode: normal;
-opacity: 0.35;
-}
-/* social_icons */
-social_icons {
-    position: absolute;
-    width: 130px;
-    height: 30px;
-    left: 1070px;
-    top: 90%;
+header {
+  /* background-image: url("./assets/background.png");
+  background-repeat: no-repeat;
+  background-size: cover; */
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  padding-top: 40px;
+  position: absolute;
 }
 
+header ul {
+  display: flex;
+  font-weight: bold;
+  min-width: 100%;
+  justify-content: space-between;
+}
 
+.header_logo {
+  width: 150px;
+}
